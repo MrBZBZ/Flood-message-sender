@@ -1,2 +1,4 @@
-# Flood_message_sender
+# Flood-message-sender
 可以发送洪水一样的消息，也可以导入词汇进行扣字
+# 宇宙安全声明
+* 仅供交流学习，切勿用于骚扰他人，后果自负
