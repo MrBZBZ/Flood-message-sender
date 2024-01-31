@@ -17,6 +17,5 @@
 ## 我是大蛇，我害怕被门↓
 ## 看这里的编译教程↓
 * 下载main.py，弄到pycharm里面，导入必要的库即可运行
-* 然后可以用pyinstaller打包成exe（360会给你的exe报毒别问我为什么💩）
 * 你需要的库有wxpython，keyboard，pyperclip，这几个库是需要你手动下载的
 * wxpython是用来写GUI的，keyboard是模拟按键，pyperclip用来复制文本
